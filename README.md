@@ -1,2 +1,3 @@
-# repository-template
-Template repository for all the Projects
+# REST example project
+
+It's my example project
